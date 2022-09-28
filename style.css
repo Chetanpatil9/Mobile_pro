@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 360px;
+    height: 1282px;
+    border: 1px solid black;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: baseline;
+    margin-left: 500px;
+    
+}
+.parent {
+    width: 360px;
+    height: 60px;
+}
+
+span {
+    color: #00A5EC;
+    
+}
+
+.icons {
+    width: 40px;
+    height: 40px;
+    font-size: 40px;
+    color: #00A5EC;
+    float: center;
+    margin-left: 160px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Parent1{
+     width: 360px;
+     height: 360px;
+     border: 1px solid #EDEDED;
+     /* margin-left: 85px; */
+}
+
+.Church {
+    text-decoration: line-through;
+    margin-top: 58px;
+    margin-left: 30px;
+}
+
+.Shoping {
+    margin-left: 30px;
+
+}
+
+.Trip {
+    color: #00A5EC;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.Parent2{
+    width: 360px;
+    height: 360px;
+    border: 1px solid #EDEDED;
+    /* margin-left: 85px; */
+}
+
+.Supermarket {
+   text-decoration: line-through;
+   margin-top: 58px;
+   margin-left: 30px;
+}
+
+.Vegetable {
+   margin-left: 30px;
+
+}
+
+.List {
+   color: #00A5EC;
+   margin-left: 30px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+
+
+
+.Parent3{
+    width: 360px;
+    height: 360px;
+    border: 1px solid #EDEDED;
+    /* margin-left: 85px; */
+}
+
+.Wake {
+   text-decoration: line-through;
+   margin-top: 58px;
+   margin-left: 30px;
+}
+
+.Sleep {
+   margin-left: 30px;
+
+}
+
+.Routine {
+   color: #00A5EC;
+   margin-left: 30px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+
+
+
+

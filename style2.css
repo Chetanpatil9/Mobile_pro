@@ -1,0 +1,250 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 360px;
+    height: 1282px;
+    border: 1px solid black;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: baseline;
+    margin-left: 500px;
+    /* z-index: 1; */
+    /* filter: blur(2px); */
+    /* opacity: 0.6; */
+    /* background-color: rgb(233, 231, 231); */
+    
+}
+.parent1 {
+    width: 360px;
+    height: 60px;
+    /* z-index: 1; */
+    filter: blur(1px);
+    /* position: absolute; */
+    /* z-index: 2; */
+    /* opacity: 0.6; */
+}
+
+span {
+    color: #00A5EC;
+    /* position: absolute; */
+    /* z-index: 2; */
+    /* z-index: 1; */
+    filter: blur(1px);
+    /* opacity: 0.6; */
+}
+
+.icons {
+    width: 40px;
+    height: 40px;
+    font-size: 40px;
+    color: #00A5EC;
+    float: center;
+    margin-left: 160px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* position: absolute; */
+    /* z-index: 2; */
+    /* z-index: 1; */
+    filter: blur(1px);
+    /* opacity: 0.6; */
+}
+
+.Parent1_2 {
+     width: 360px;
+     height: 360px;
+     border: 1px solid #EDEDED;
+     /* position: absolute; */
+     /* z-index: 2; */
+     /* z-index: 1; */
+     filter: blur(1px);
+     /* opacity: 0.6; */
+     /* margin-left: 85px; */
+}
+
+.Church1 {
+    text-decoration: line-through;
+    margin-top: 58px;
+    margin-left: 30px;
+    /* position: absolute; */
+    /* z-index: 2; */
+    /* z-index: 1; */
+    filter: blur(1px);
+    /* opacity: 0.6; */
+}
+
+.Shoping1 {
+    margin-left: 30px;
+    /* position: absolute; */
+    /* z-index: 2; */
+    /* z-index: 1; */
+    filter: blur(1px);
+    /* opacity: 0.6; */
+}
+
+.Trip1 {
+    color: #00A5EC;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* position: absolute; */
+    /* z-index: 2; */
+    /* z-index: 1; */
+    filter: blur(1px);
+    /* opacity: 0.6; */
+}
+
+
+
+.Parent1_3 {
+    width: 360px;
+    height: 360px;
+    border: 1px solid hsl(0, 0%, 93%);
+    /* position: absolute; */
+    /* z-index: 2; */
+    /* z-index: 1; */
+    filter: blur(1px);
+    /* opacity: 0.6; */
+    /* margin-left: 85px; */
+}
+
+.Supermarket1 {
+   text-decoration: line-through;
+   margin-top: 58px;
+   margin-left: 30px;
+   /* position: absolute; */
+   /* z-index: 2; */
+   /* z-index: 1; */
+   filter: blur(1px);
+   /* opacity: 0.6; */
+}
+
+.Vegetable1 {
+   margin-left: 30px;
+   /* position: absolute; */
+   /* z-index: 2; */
+   /* z-index: 1; */
+   filter: blur(1px);
+   /* opacity: 0.6; */
+}
+
+.List1 {
+   color: #00A5EC;
+   margin-left: 30px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   /* position: absolute; */
+   /* z-index: 2; */
+   /* z-index: 1; */
+   filter: blur(1px);
+   /* opacity: 0.6; */
+}
+
+
+
+
+.Parent1_4 {
+    width: 360px;
+    height: 360px;
+    border: 1px solid #EDEDED;
+    /* position: absolute; */
+    /* z-index: 2; */
+    /* z-index: 1; */
+    filter: blur(1px);
+    /* opacity: 0.6; */
+    /* margin-left: 85px; */
+}
+
+.Wake1 {
+   text-decoration: line-through;
+   margin-top: 58px;
+   margin-left: 30px;
+   /* position: absolute; */
+   /* z-index: 2; */
+   /* z-index: 1; */
+   filter: blur(1px);
+   /* opacity: 0.6; */
+}
+
+.Sleep1 {
+   margin-left: 30px;
+   /* position: absolute; */
+   /* z-index: 2; */
+   /* z-index: 1; */
+   filter: blur(1px);
+   /* opacity: 0.6; */
+}
+
+.Routine1 {
+   color: #00A5EC;
+   margin-left: 30px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   /* position: absolute; */
+   /* z-index: 2; */
+   /* z-index: 1; */
+   filter: blur(1px);
+   /* opacity: 0.6; */
+}
+
+.Add_New1 {
+      width: 340px;
+      height: 250px;
+      border: 1px solid #EDEDED;
+      border-radius: 10px;
+      margin-left: -355px;
+      margin-bottom: -50px;
+      margin-top: 240px;
+      /* position: relative; */
+      /* z-index: 1; */
+      /* opacity: 1; */
+      background-color: rgb(211, 248, 236);
+}
+
+
+.Learn1 {
+    width: 300px;
+    height: 40px;
+    border: 1px solid #EDEDED;
+    border-radius: 4px;
+    margin: 10px;
+    /* position: relative; */
+    /* z-index: 1; */
+    /* opacity: 1;  */
+}
+
+.button1 {
+    width: 180px;
+    height: 48px;
+    color: #FFFFFF;
+    border-radius: 4px;
+    border: 1px solid  #00A5EC;
+    background-color: #00A5EC;
+    margin-left: 150px;
+    margin-top: 20px;
+    cursor: pointer;
+    /* position: relative; */
+    /* z-index: 1; */
+}
+.button1:hover {
+    width: 180px;
+    height: 48px;
+    border: 1px solid  #00A5EC;
+    background-color: #00A5EC;
+    position: relative;
+    /* z-index: 1; */
+    /* cursor: pointer; */
+    /* background-color: #00A5EC; */
+}
+
+.mark {
+    width: 18px;
+    height: 18px;
+    color: black;
+    margin-left: 210px;
+    margin-top: 3px;
+    /* position: relative; */
+    /* z-index: 1; */
+}

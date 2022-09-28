@@ -1,0 +1,65 @@
+body {
+    width: 360px;
+    height: 1282px;
+    border: 1px solid black;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: baseline;
+    margin-left: 500px;   
+}
+
+.parent_1 {
+    width: 360px;
+    height: 60px;
+    
+}
+.Parent_ {
+    width: 360px;
+    height: 360px;
+    border: 1px solid #EDEDED;
+    /* margin-left: 85px; */
+}
+.Church_ {
+    text-decoration: line-through;
+    margin-top: 58px;
+    margin-left: 30px;
+}
+
+.Shoping_ {
+    margin-left: 30px;
+}
+
+.Trip_ {
+    color: #00A5EC;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.icons {
+    width: 40px;
+    height: 40px;
+    font-size: 40px;
+    color: #00A5EC;
+    float: center;
+    margin-left: 160px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.left_ {
+    width: 24px;
+    height: 24px;
+    color: #424242;
+    margin-left: -140px;
+    margin-top: 20px;
+} 
+
+.b {
+    width: 37px;
+    height: 20px;
+    margin-left: -18px;
+    margin-bottom: 50px;
+}
+
+
